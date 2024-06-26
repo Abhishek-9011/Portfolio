@@ -1,0 +1,142 @@
+body{
+    background-color: #E0FBE2;
+    margin: 0;
+    text-align: center;
+    font-family:  sans-serif;
+    color: #686D76;
+    font-size: 1.15rem;
+}
+h1{
+    font-size: 5.625rem;
+    margin-top: 100px;
+    font-family: "Playwrite GB J", cursive;
+    font-optical-sizing: auto;
+    color: #64CCC5;
+}
+h2{
+    color: #64CCC5;
+}
+h3{
+    color: #64CCC5;
+}
+.programmer{
+    font-size: 2.5rem;
+    color: #64CCC5;
+}
+.topContainer{
+    background-color: #E0FBE2;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.picprofile{
+    margin-top: 15px;
+    width: 10%;
+    height: auto;
+}
+.skillpic{
+    width: 45%;
+    height: auto;
+    float: left;
+    margin-right: 70px;
+}
+.skillpic-2{
+    width: 45%;
+    height: auto;
+    float: right;
+    margin-left: 70px;
+}
+.leetcode{
+    width: 6%;
+    height: auto;
+}
+.codeforces{
+    width: 6%;
+    height: auto;
+}
+.hackerrank{
+    width: 6%;
+    height: auto;
+}
+.codechef{
+    width: 6%;
+    height: auto;
+}
+.linkedin{
+    width: 3%;
+    height: auto;
+}
+.x{
+    width: 3%;
+    height: auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+    /* padding-top: 20px; */
+    padding-bottom: 20px;
+}
+.my-description{
+    padding-bottom: 25px;
+}
+.mountain{
+    padding-bottom: 30px;
+}
+.btn {
+    background: #64CCC5;
+    background-image: -webkit-linear-gradient(top, #64CCC5, #64CCC5);
+    background-image: -moz-linear-gradient(top, #64CCC5, #64CCC5);
+    background-image: -ms-linear-gradient(top, #64CCC5, #64CCC5);
+    background-image: -o-linear-gradient(top, #64CCC5, #64CCC5);
+    background-image: linear-gradient(to bottom, #64CCC5, #64CCC5);
+    -webkit-border-radius: 25;
+    -moz-border-radius: 25;
+    border-radius: 25px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #176B87;
+    background-image: -webkit-linear-gradient(top, #176B87, #176B87);
+    background-image: -moz-linear-gradient(top, #176B87, #176B87);
+    background-image: -ms-linear-gradient(top, #176B87, #176B87);
+    background-image: -o-linear-gradient(top, #176B87, #176B87);
+    background-image: linear-gradient(to bottom, #176B87, #176B87);
+    text-decoration: none;
+  }
+.bottom-container{
+    margin-top :60px;
+    padding-top: 80px auto 20px;
+    background-color: #64CCC5;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.linkedin{
+    margin-top: 20px;
+}
